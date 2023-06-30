@@ -1,0 +1,137 @@
+
+body {
+    background-color: orange;
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    width: 100%;
+  }
+  
+  h1, h2, h3 {
+    color: yellow;
+  }
+  
+  header {
+    height: 110px;
+    background-color: black;
+    padding: 20px;
+  }
+  
+  nav ul {
+
+    list-style: none;
+    margin: 0;
+    padding: 0;
+  }
+  
+  nav ul li {
+    display: inline;
+  }
+  
+  nav ul  a {
+    text-decoration: none;
+    color: #fff;
+    margin-right: 10px;
+  }
+  
+  section {
+    padding: 50px;
+  }
+  
+  footer {
+    background-color: black;
+    padding: 20px;
+    text-align: center;
+  }
+  
+  /* Estilos específicos */
+  h1,.logo{
+    display:inline-block;
+
+    font-size: 32px;
+    margin-bottom: 10px;
+  }
+  
+  h2 {
+      color: white;
+    font-size: 40px;
+    margin-bottom: 30px;
+  }
+  
+  p {
+    line-height: 1.5;
+    color: white;
+  }
+  
+  ul {
+    list-style-type: disc;
+    margin-bottom: 20px;
+  }
+  
+  address {
+    font-style: italic;
+  }
+  
+  #inicio {
+    background-color: black;
+  }
+  
+  #menu {
+    background-color: orange;
+    color: black;
+    align-items: center;
+
+  }
+  
+  #ubicacion {
+    background-color: rgb(92, 13, 13);
+  }
+  
+  #contacto {
+    background-color:  orange;
+  }
+
+  #pedidos{
+    background-color: aliceblue;
+  }
+  #acerca{
+    background-color: wheat;
+  }
+
+  .tamaño{
+      color: black;
+      image-resolution: 10px;
+      width: 10px;
+  }
+
+  img{
+      width: 350px;
+      border-radius: 10%;
+      border: 10px outset grey;
+      
+  }
+address{
+    color: white;
+}
+
+.bienvenido{
+    color: black;
+    
+}
+video{
+    width: 1544px;
+    height: 340px;
+    display: inline;
+  
+  
+}
+.img-2{
+  border-radius: none;
+  border: none;
+}
+.titped{
+    color: black;
+}
+.parrabur{
+    color: black;
+}
